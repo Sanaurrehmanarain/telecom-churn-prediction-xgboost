@@ -1,0 +1,25 @@
+# Raw/restricted data
+# *.csv
+*.parquet
+*.feather
+*.xlsx
+*.zip
+*.7z
+# Exceptions for intentionally approved aggregate outputs should be added manually.
+
+# Local environments and caches
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+.env
+*.key
+*.pem
+kaggle.json
+
+# Model artifacts may require permission and size review
+*.pkl
+*.joblib
+*.ubj

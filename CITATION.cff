@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using the metadata in this file."
+type: software
+title: "Telecom Customer Churn Prediction & Retention Analytics"
+version: "1.0"
+date-released: "2026-10-20"
+authors:
+  - family-names: Arain
+    given-names: Sana Ur Rehman
+    email: sana.arain.work@gmail.com
+repository-code: "https://github.com/sanaurrehmanarain/telecom-churn-prediction-xgboost"
+url: "https://github.com/sanaurrehmanarain/telecom-churn-prediction-xgboost"
+license: MIT
+abstract: >-
+  A reproducible retrospective proof of concept for telecom customer churn
+  prediction. It combines leakage-safe validation, a logistic regression
+  baseline, GPU-accelerated XGBoost, risk-ranked and value-aware targeting
+  analysis, illustrative campaign break-even scenarios, and a randomized pilot
+  design. Results are retrospective and use hypothetical business assumptions;
+  no retention experiment was conducted.
+keywords:
+  - customer churn
+  - churn prediction
+  - xgboost
+  - telecom analytics
+  - customer retention
+  - binary classification
+  - randomized pilot
