@@ -1,6 +1,7 @@
 # Project Brief: Telecom Customer Churn Prediction & Retention Analytics
 
 **Author:** Sana Ur Rehman Arain · **Version:** 1.0 · **Date:** 20 October 2026
+
 **Status:** Retrospective proof of concept. No retention intervention has been run.
 
 ## 1. The task
