@@ -8,7 +8,9 @@
 ![Status](https://img.shields.io/badge/Status-Retrospective%20PoC-lightgrey)
 
 **Author:** Sana Ur Rehman Arain
+
 **Project type:** Data science · Binary classification · Customer analytics
+
 **Status:** Completed retrospective proof of concept. No live retention experiment has been conducted.
 
 ---
